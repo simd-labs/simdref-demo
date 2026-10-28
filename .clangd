@@ -1,0 +1,2 @@
+CompileFlags:
+  Add: [-mavx2, -mfma, -mpopcnt]
